@@ -3,4 +3,158 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "CainCraft Homepage"
 ---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>The Great Cain - Home</title>
+</head>
+
+<body>
+    <div class="grid1-container">
+        <div class="grid1-nav-header">
+            .<nav class="nav">
+                <a class="nav-link theme-shadows theme-bg" href="#">Home</a>
+                <a class="nav-link theme-shadows theme-bg" href="#">Profile</a>
+                <a class="nav-link theme-shadows theme-bg" href="#">Messages</a>
+            </nav>
+        </div>
+        <div class="grid1-banner">
+            <img class="banner-image theme-shadows" src="images/thegreatcain_1200.png" alt="banner">
+        </div>
+        <div class="grid1-content-title">
+            <h3>Demotivationals</h3>
+            <h4>Witty quips to get you through the day</h4>
+        </div>
+        <div class="grid2-container">
+            <div class="grid2-item theme-shadows theme-bg">
+                <div class="card-header">
+                    <header>
+                        <img src="images/jason.jpg" alt="profile image" class="profile-thumbnail">
+                        <div class="profile-name">
+                            <h3>Jason the Great</h3>
+                            <h4>@jasongreatcain</h4>
+                        </div>
+                        <div class="follow-btn">
+                            <button>Follow</button>
+                        </div>
+                    </header>
+                </div>
+                <div class="card-body">
+                    <hr>
+                    <h3>Limitations</h3>
+                    <img class="card-image" src="images/penguin.jpg" alt="penguin">
+                    <p class="card-text">Until you spread your wings, you'll have no idea how far you can walk.</p>
+                    <span class="date">1:32 PM - 8 Apr 2022</span>
+                    <hr>
+                </div>
+                <div class="card-footer">
+                    <footer>
+                        <div class="stats">
+                            <div class="retweets">
+                                <strong>97</strong> Retweets
+                            </div>
+                            <div class="likes">
+                                <strong>635</strong> Likes
+                            </div>
+                        </div>
+                        <div class="cta">
+                            <button class="share-btn">Share</button>
+                            <button class="retweet-btn">Retweet</button>
+                            <button class="like-btn">Like</button>
+                        </div>
+                    </footer>
+                </div>
+            </div>
+            <div class="grid2-item theme-shadows theme-bg">
+                <div class="card-header">
+                    <header>
+                        <img src="images/jason.jpg" alt="profile image" class="profile-thumbnail">
+                        <div class="profile-name">
+                            <h3>Jason the Great</h3>
+                            <h4>@jasongreatcain</h4>
+                        </div>
+                        <div class="follow-btn">
+                            <button>Follow</button>
+                        </div>
+                    </header>
+                </div>
+                <div class="card-body">
+                    <hr>
+                    <h3>Meetings</h3>
+                    <img class="card-image" src="images/meetings.jpg" alt="meetings">
+                    <p class="card-text">None of us is as dumb as all of us.</p>
+                    <span class="date">4:16 PM - 16 Apr 2022</span>
+                    <hr>
+                </div>
+                <div class="card-footer">
+                    <footer>
+                        <div class="stats">
+                            <div class="retweets">
+                                <strong>204</strong> Retweets
+                            </div>
+                            <div class="likes">
+                                <strong>725</strong> Likes
+                            </div>
+                        </div>
+                        <div class="cta">
+                            <button class="share-btn">Share</button>
+                            <button class="retweet-btn">Retweet</button>
+                            <button class="like-btn">Like</button>
+                        </div>
+                    </footer>
+                </div>
+            </div>
+            <div class="grid2-item theme-shadows theme-bg">
+                <div class="card-header">
+                    <header>
+                        <img src="images/jason.jpg" alt="profile image" class="profile-thumbnail">
+                        <div class="profile-name">
+                            <h3>Jason the Great</h3>
+                            <h4>@jasongreatcain</h4>
+                        </div>
+                        <div class="follow-btn">
+                            <button>Follow</button>
+                        </div>
+                    </header>
+                </div>
+                <div class="card-body">
+                    <hr>
+                    <h3>Perserverance</h3>
+                    <img class="card-image" src="images/tornado.jpeg" alt="tornado">
+                    <p class="card-text">The courage to ignore the obvious wisdom of turning back.</p>
+                    <span class="date">9:32 AM - 4 May 2022</span>
+                    <hr>
+                </div>
+                <div class="card-footer">
+                    <footer>
+                        <div class="stats">
+                            <div class="retweets">
+                                <strong>87</strong> Retweets
+                            </div>
+                            <div class="likes">
+                                <strong>367</strong> Likes
+                            </div>
+                        </div>
+                        <div class="cta">
+                            <button class="share-btn">Share</button>
+                            <button class="retweet-btn">Retweet</button>
+                            <button class="like-btn">Like</button>
+                        </div>
+                    </footer>
+                </div>
+            </div>
+        </div>
+        <div class="grid1-footer">
+            <div class="footer-item">Copyright 2022</div>
+            <div class="footer-item">theGreatCain.com</div>
+        </div>
+    </div>
+</body>
+
+</html>
