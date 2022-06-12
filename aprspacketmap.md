@@ -6,7 +6,7 @@ layout: page
 title: "APRS Packet Map"
 permalink: /aprspacketmap/
 ---
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     

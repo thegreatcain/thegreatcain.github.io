@@ -5,7 +5,7 @@
 layout: home
 title: "CainCraft Homepage"
 ---
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 
 <head>
